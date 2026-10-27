@@ -39,4 +39,4 @@ python run_experiment.py --condition D --num-personas 100 --seed 42
 | `data/external/data_VCF0842_sample_balance.json` | 환경 규제 관련 외부 정보 풀 |
 | `data/network/proxy_network20.json` | Proxy 조건의 프로필과 관계망 |
 
-ANES 변수의 의미와 원자료 이용 조건은 [American National Election Studies](https://electionstudies.org/) 문서를 따릅니다.
+ANES 변수의 의미와 원자료 이용 조건은 [American National Election Studies](https://electionstudies.org/) 문서를 따름
