@@ -1,0 +1,14 @@
+anthropic
+nest-asyncio
+numpy
+openai
+pandas
+python-dateutil
+python-dotenv
+requests
+scikit-learn
+scipy
+tiktoken
+torch
+tqdm
+transformers<5
